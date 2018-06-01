@@ -1,0 +1,48 @@
+.main-div{
+	padding-bottom:100px;
+	
+	
+}
+
+.heading-one{
+	text-align:center;
+	color:#0971e8;
+	/* text-shadow:6px 6px grey; */
+	font-family:verdana;
+	text-decoration:underline;
+	font-size:35px;
+	font-weight:bold;
+	padding:30px;
+}
+
+.ad-btn{
+	
+	padding:10px;
+	font-family:verdana;
+	font-size:120%;
+	background-color:red;
+	margin-left:230px;
+	border-color:red;
+	color:white;
+	font-weight:bold;
+}
+.div-two{
+	
+	margin-top:50px;
+}
+.ad-btn:hover{
+	border-color:green;
+	background-color:green;	
+	
+}
+.six{
+	margin-left:218px;
+	
+}
+
+.eight{
+	margin-top:30px;
+	position:relative;
+	left:360px;
+	
+}
